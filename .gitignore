@@ -1,0 +1,17 @@
+# Mac OS X system files
+.DS_Store
+
+# Xcode
+xcuserdata/
+
+# Swift Playground
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.build/
+
+# Temporary files
+*~.nib
+*.swp
+*~
